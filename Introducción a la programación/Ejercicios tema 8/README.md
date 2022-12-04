@@ -16,3 +16,19 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+## Ejercicios tema 8
+
+
+Para practicar la encapsulación:
+
+Crear clase Persona.
+
+Crear variables las privadas edad, nombre y telefono de la clase Persona.
+
+Crear gets y sets de cada propiedad.
+
+Crear un objeto persona en el main.
+
+Utiliza los gets y sets para darle valores a las propiedades edad, nombre y telefono, por último muéstralas por consola.
